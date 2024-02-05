@@ -1,0 +1,21 @@
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\bin\Debug\net8.0\Teste AeC.exe
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\bin\Debug\net8.0\Teste AeC.deps.json
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\bin\Debug\net8.0\Teste AeC.runtimeconfig.json
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\bin\Debug\net8.0\Teste AeC.dll
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\bin\Debug\net8.0\Teste AeC.pdb
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\bin\Debug\net8.0\WebDriver.dll
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\obj\Debug\net8.0\Teste AeC.csproj.AssemblyReference.cache
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\obj\Debug\net8.0\Teste AeC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\obj\Debug\net8.0\Teste AeC.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\obj\Debug\net8.0\Teste AeC.AssemblyInfo.cs
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\obj\Debug\net8.0\Teste AeC.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\obj\Debug\net8.0\Teste AeC.csproj.CopyComplete
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\obj\Debug\net8.0\Teste AeC.dll
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\obj\Debug\net8.0\refint\Teste AeC.dll
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\obj\Debug\net8.0\Teste AeC.pdb
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\obj\Debug\net8.0\Teste AeC.genruntimeconfig.cache
+C:\Users\olive\source\repos\Teste AeC\Teste AeC\obj\Debug\net8.0\ref\Teste AeC.dll

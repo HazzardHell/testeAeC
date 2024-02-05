@@ -1,0 +1,35 @@
+Course: Curso RPA: automatize processos com ferramentas No/Low Code
+Description: Domine a automação de processos com No/Low Code e transforme sua eficiência empresarial. Aprenda de forma prática e ágil
+Duration: 8h
+Instructor(s): Júlia Cortazio Viana
+
+Course: Formação Desenho básico
+Description: O corpo humano é composto por diferentes partes e cada uma delas possui músculos e ossos que definem seu relevo. Compreender esse relevo é muito importante para alcançar desenhos de alta qualidade técnica. Neste curso você vai aprender a fazer uma leitura visual do corpo humano além de aprender técnicas
+Duration: 127h
+Instructor(s): Rafael Balbi, Rafael Balbi, Thiago Grusmão, Thiago Grusmão, Rafael Nunes Cerveglieri, Rafael Nunes Cerveglieri
+
+Course: Formação Canva
+Description: É comum que o design deixe de ser um diferencial e passe a ser uma condição básica para uma empresa, projeto ou um profissional que precise se apresentar para a internet, promover seu conteúdo ou otimizar suas criações. Esse movimento criou uma demanda significativa por peças gráficas e criações funcionais
+Duration: 51h
+Instructor(s): Rafael Balbi, Rafael Balbi, Ana Mascarenhas, Ana Mascarenhas, Alanis Presotto, Alanis Presotto
+
+Course: Formação Game art: construindo um mundo isométrico
+Description: O Mundo Isométrico Você sabia que até Sonic já teve seu próprio jogo isométrico? Pois é Essa perspectiva tem sido usada como técnica em vários jogos ao longo da história e hoje é uma escolha muito comum, especialmente em jogos indie. Ela nada mais é do que uma técnica de
+Duration: 52h
+Instructor(s): Rainer Petter, Rainer Petter
+
+Course: Formação Desenvolvimento de Jogos com Unity
+Description: O mercado brasileiro de desenvolvimento de games cresce a cada ano, com estúdios de criação espalhados pelo país inteiro, a demanda de pessoas capacitadas também aumenta. Desenvolver um jogo é uma tarefa coletiva e multidisciplinar, que permite o aprendizado contínuo por meio de desafios cotidianos e envolve muitos profissionais em
+Duration: 90h
+Instructor(s): Henrique Morato, Henrique Morato, Ricardo Bugan Debs, Ricardo Bugan Debs
+
+Course: Curso Pixel Art: animação de sprite de um RPG
+Description: Faça esse curso e aprenda como é animado um sprinte, conheça o Quadro frame , Quadro-chave key frame e Quadros por Segundo frames per second e mais.
+Duration: 5h
+Instructor(s): Rafael Balbi
+
+Course: Curso Desenho de rosto: anatomia criativa
+Description: Aprenda a desenhar rostos estilizados, potencializando a personalidade de suas criações com formas mais limpas e diretas. Crie um personagem com variações de expressão para um RPG digital.
+Duration: 10h
+Instructor(s): Rafael Nunes Cerveglieri
+
